@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.lixinxin:manager-serviceimpl:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/apache-maven-3.3.9/repo/com/lixinxin/manager-serviceimpl/1.0-SNAPSHOT/manager-serviceimpl-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/apache-maven-3.3.9/repo/com/lixinxin/manager-serviceimpl/1.0-SNAPSHOT/manager-serviceimpl-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/apache-maven-3.3.9/repo/com/lixinxin/manager-serviceimpl/1.0-SNAPSHOT/manager-serviceimpl-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
